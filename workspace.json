@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "projects": {
+    "awesome-app": "apps/awesome-app",
+    "awesome-app-e2e": "apps/awesome-app-e2e",
+    "website": "apps/website",
+    "website-e2e": "apps/website-e2e"
+  }
+}
